@@ -1,0 +1,11 @@
+Configurar Git:
+git config --global user.name "Tu nombre"
+git config --global usuario.email "youremail@domain.com"
+
+otros comandos
+git status
+git clone (url)
+git add (nombres de archivo)
+git commit -m "(mensaje confirmado)""
+git push -u origin master
+git remote add origin master (url)
